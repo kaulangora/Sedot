@@ -30,7 +30,7 @@ if(x=="6"){xxx="an-uncertain-battlefield.html"}
 if(x=="7"){xxx="how-to-beat-cancer-natural-way.html"}
 if(x=="8"){xxx="you-can-no-longer-ignore-data-analytics.html"}
 if(x=="9"){xxx="the-future-of-data-science.html"}
-if(x=="10"){xxx="four-stages-of-business-growth.html"} a_to_ve[i].href="https://www.sedot.online/2018/07/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="10"){xxx="four-stages-of-business-growth.html"} a_to_ve[i].href="https://www.sedoot.id/2018/07/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
